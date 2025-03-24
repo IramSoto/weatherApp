@@ -38,3 +38,10 @@ pip install -r requirements.txt
 
 ![Diagrama de la arquitectura](./docs/Diagrama.png)
 
+## 🎯 Objetivos de Arquitectura
+
+Esta arquitectura fue diseñada para permitir que el script de Python se ejecute de forma automática o manualmente desde la aplicación web, consumiendo una ruta específica en la API. 
+
+De esta manera, la solución es más manejable, escalable y, en caso de que falle el script, no afecta directamente a la aplicación principal.
+
+
