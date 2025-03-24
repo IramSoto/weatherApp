@@ -19,20 +19,20 @@ Aplicación para visualizar información climática reciente y por fecha, usando
 ## 🔧 Instalación
 
 ### API
-cd API
-yarn install
-yarn start
+- cd API 
+- yarn install
+- yarn start
 
 ### FrontEnd
-cd FrontEnd
-npm install
-npm run dev
+- cd FrontEnd
+- npm install
+- npm run dev
 
 ### Python
-cd Cleaning
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+- cd Cleaning
+- python3 -m venv .venv
+- source .venv/bin/activate
+- pip install -r requirements.txt
 
 ## 🧭 Diagrama de Arquitectura
 
